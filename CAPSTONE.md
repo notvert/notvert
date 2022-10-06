@@ -15,13 +15,16 @@ Functionality:
 - How will their actions correspond to events on the back-end? I envision something like modifying the fields/buttons mentioned above will modify the json file, which changes what the globe does
 
 
-Data Model: Depends on what data I end up using, so far government data seems the most easily accessible. Something like if a certain region voted Republican or Democrat measured via color and then the length of a line on the point could be average income - this could be interesting.
+Data Model: 
+
+Depends on what data I end up using, so far government data seems the most easily accessible. Something like if a certain region voted Republican or Democrat measured via color and then the length of a line on the point could be average income - this could be interesting.
 
 - https://earthquake.usgs.gov/earthquakes/map/
 - https://geocoding.geo.census.gov/geocoder/
 
 Schedule:
--Week 1/Milestone 1: Get globe/index.html working with static json file
--Week 2/Milestone 2: Experiment with different data / models and pick the most visually appealing/relevant data - then create models from it
--Week 3/Milestone 3: Add fields/buttons on index.html to customize json file and then reload the page
--Week 4/Milestone 4: CSS, make everything look better
+
+- Week 1/Milestone 1: Get globe/index.html working with static json file
+- Week 2/Milestone 2: Experiment with different data / models and pick the most visually appealing/relevant data - then create models from it
+- Week 3/Milestone 3: Add fields/buttons on index.html to customize json file and then reload the page
+- Week 4/Milestone 4: CSS, make everything look better
